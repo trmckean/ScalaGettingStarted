@@ -1,0 +1,8 @@
+Why Scala?
+    - Concise and expressive
+    - Java interoperability
+    - Reactive
+        * Scalable
+        * Resilient
+        * Responsive
+        * Event-driven
